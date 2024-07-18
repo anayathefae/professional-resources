@@ -8,3 +8,5 @@ I am starting a repository as kind of a list of resources that I think will help
 For starters, here's a guide on putting Github on a resume!
 Link: https://www.hiration.com/blog/github-on-resume/#GitHub-Details-on-Resume
 
+Also, I think this might be a good idea. It's free and I think might be a good way to keep track of accomplishments to share with colleagues, recruiters, etc. 
+https://orcid.org/register
